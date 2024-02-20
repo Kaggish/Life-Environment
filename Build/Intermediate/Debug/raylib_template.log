@@ -1,8 +1,2 @@
-﻿  main.cpp
-  Scene.cpp
-  Sheep.cpp
-  Wolf.cpp
-  WolfManager.cpp
-  Generating Code...
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: "link.exe" exited with code 1104.
-LINK : fatal error LNK1104: cannot open file 'raylibdll.lib'
+﻿  Grid.cpp
+  raylib_template.vcxproj -> C:\Users\Jakub Orlowski\Documents\GitHub\Life-Environment\Build\Debug\raylib_template.exe

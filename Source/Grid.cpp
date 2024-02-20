@@ -205,11 +205,11 @@ void Grid::changeTexture()
 {
 	for (int i = 0; i < grass.size(); ++i)
 	{
-		if (grass.at(i).getHealth() == 50)
+		if (grass.at(i).getHealth() >= 50)
 		{
 			grass.at(i).setTextures(grassTexture2);
 		}
-		else if (grass.at(i).getHealth() == 100)
+		else if (grass.at(i).getHealth() >= 100)
 		{
 			grass.at(i).setTextures(grassTexture3);
 		}
