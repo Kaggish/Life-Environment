@@ -3,7 +3,7 @@
 # About
 Second year project that I am remaking
 
-This project simulates a life environment, in it, there are grass, sheep and wolves
+This project simulates a life environment, in it there are grass, sheep, and wolves
 
 # TODO
 Organize project better
